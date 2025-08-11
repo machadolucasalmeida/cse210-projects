@@ -1,0 +1,2 @@
+1100,2,1500
+SimpleGoal:Running,Run everyday to be healthier,1000,True
